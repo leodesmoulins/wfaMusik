@@ -1,0 +1,13 @@
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\bin\Debug\wfaMUSIK.exe.config
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\bin\Debug\wfaMUSIK.exe
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\bin\Debug\wfaMUSIK.pdb
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\obj\Debug\wfaMUSIK.csprojResolveAssemblyReference.cache
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\obj\Debug\wfaMUSIK.Properties.Resources.resources
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\obj\Debug\wfaMUSIK.csproj.GenerateResource.Cache
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\obj\Debug\wfaMUSIK.exe
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\obj\Debug\wfaMUSIK.pdb
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\obj\Debug\wfaMUSIK.frmAccueil.resources
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\obj\Debug\wfaMUSIK.frmGestionInstrument.resources
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\obj\Debug\wfaMUSIK.frmGestionCours.resources
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\obj\Debug\wfaMUSIK.AjoutInstrument.resources
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\wfaMUSIK\obj\Debug\wfaMUSIK.AjoutezCours.resources

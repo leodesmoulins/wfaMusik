@@ -1,0 +1,7 @@
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\UnitTestProjectMusik\bin\Debug\UnitTestProjectMusik.dll
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\UnitTestProjectMusik\bin\Debug\UnitTestProjectMusik.pdb
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\UnitTestProjectMusik\bin\Debug\wfaMUSIK.exe
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\UnitTestProjectMusik\bin\Debug\wfaMUSIK.pdb
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\UnitTestProjectMusik\obj\Debug\UnitTestProjectMusik.csprojResolveAssemblyReference.cache
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\UnitTestProjectMusik\obj\Debug\UnitTestProjectMusik.dll
+\\LSC-SRV-7210-0\ldesmoulin$\Documents\Cas MUSK\wfaMUSIK\UnitTestProjectMusik\obj\Debug\UnitTestProjectMusik.pdb
